@@ -32,7 +32,7 @@ class Pendulo:
 #declaração das variáveis
 g=9.8
 gama=0.5
-A=0
+A=1.25
 wf=2./3.
 t=0.0
 dt=0.2
