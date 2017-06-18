@@ -31,7 +31,7 @@ class Pendulo:
 		self.e= 0.5*self.m*(self.l*self.v)**2 +self.m*g*self.l*(1-math.cos(self.x))
 #declaração das variáveis
 g=9.8
-gama=0
+gama=0.5
 A=0
 wf=2./3.
 t=0.0
